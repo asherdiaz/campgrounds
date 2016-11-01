@@ -5,5 +5,5 @@ Users can find more information about each park, including a short description, 
 
 This program was completed with a partner as one of our capstone projects for Tech Elevator, an intensive 14-week coding bootcamp. The Campgrounds application was one of the first applications I created halfway through the course as part of the learning process. 
 
-This application is command line driven. To run, click CampgroundCLI.java in src/main/java -> com.techelevator package. 
+This application is command line driven. To run, click CampgroundCLI.java.
 
